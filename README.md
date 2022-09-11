@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/komalshres">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=komalshres&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight" />
 </a>
-<figure><embed src="https://wakatime.com/share/@komalshres/9cbe0205-d489-4fbc-a5ac-48823b623fe0.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@komalshres/525e90f4-afd4-45f3-bd4e-e3d26febbe05.png" /></a>
 
 <br/>
 
