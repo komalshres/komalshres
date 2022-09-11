@@ -53,9 +53,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/komalshres">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=komalshres&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/komalshres">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=komalshres&theme=algolia" />
-</a>
+<figure><embed src="https://wakatime.com/share/@komalshres/9cbe0205-d489-4fbc-a5ac-48823b623fe0.svg"></embed></figure>
 
 <br/>
 
